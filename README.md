@@ -1,7 +1,9 @@
 React Todo
 ============
 
-A minimal example of todo app in ReactJS.
+A small hands on example of a TODO app in ReactJS for Procom.
+
+Do checkout the presentation [Why React's Awesome!](https://www.slideshare.net/nomanalikk/why-reacts-awesome)
 
 ### Usage
 
